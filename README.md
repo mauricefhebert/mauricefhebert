@@ -1,5 +1,8 @@
 # 👨‍💻 Mauricefhebert
 
+<h3>Tools I use</h3>
+<img align="left" alt="html" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
 <!--
 **mauricefhebert/mauricefhebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
