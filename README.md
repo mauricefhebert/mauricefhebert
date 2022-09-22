@@ -1,7 +1,12 @@
 # 👨‍💻 Mauricefhebert
 
-<h3>Tools I use</h3>
+### Languages and Tools
 <img align="left" alt="html" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
+<img align="left" alt="html" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          
           
 <!--
 **mauricefhebert/mauricefhebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
